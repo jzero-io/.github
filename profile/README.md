@@ -4,5 +4,5 @@
 
 ## Version
 
-[![GitHub release](https://img.shields.io/github/release/jzero-io/jzero.svg?style=flat-square)](https://github.com/jzero-io/jzero/releases/latest)
+[![GitHub release](https://img.shields.io/github/release/jzero-io/jzero.svg?style=flat-square&label=jzero)](https://github.com/jzero-io/jzero/releases/latest)
 
