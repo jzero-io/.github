@@ -11,7 +11,7 @@ https://docs.jzero.io
 
 https://github.com/jzero-io/examples
 
-## 生体啊
+## 生态
 
 ### jzero-admin 后端管理系统
 
