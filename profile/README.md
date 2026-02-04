@@ -27,4 +27,5 @@ https://github.com/jzero-io/jzero-intellij
 
 ### 微信公众号
 
-![](https://oss.jaronnie.com/gocloudcoder.png)
+![gocloudcoder](https://github.com/user-attachments/assets/44184df0-20ce-403d-ab38-74088915bc33)
+
