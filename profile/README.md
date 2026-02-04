@@ -28,5 +28,5 @@ https://github.com/jzero-io/jzero-intellij
 ### 微信公众号
 
 <p align="center">
-<img align="center" width="150px" src="https://github.com/user-attachments/assets/44184df0-20ce-403d-ab38-74088915bc33">
+<img align="center" width="300px" src="https://github.com/user-attachments/assets/44184df0-20ce-403d-ab38-74088915bc33">
 </p>
