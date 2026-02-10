@@ -17,7 +17,7 @@ https://github.com/jzero-io/examples
 
 https://github.com/jzero-io/jzero-admin
 
-国内演示环境: http://jzero-admin.jaronnie.com
+国内演示环境: https://jzero-admin.jaronnie.com
 
 国外演示环境: https://admin.jzero.io
 
